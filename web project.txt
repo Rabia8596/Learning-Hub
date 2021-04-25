@@ -1,0 +1,198 @@
+<HTML>
+
+<HEAD>
+<TITLE> Elearning Website </TITLE>
+</HEAD>
+<body bgcolor = "white">
+<p  style="Font-size:50px ;text-align: left;"><font color= "Purple" <u> <i> <b>Learning Hub </b> </i> </u></p>
+ <b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp Home
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+ Courses
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+Latest News
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+Become an Instructor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+Contact Us
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
+About Us <b></p>
+<p style="text-align:center;"><img src="books_library_shelves_138556_1280x720.jpg" alt="background image" width="1320" class="center"> </p>
+
+
+
+<H2 style="text-align:center;"> <i><strong> <font color=" black"><font color="purple"> EDUCATION IS THE BACKBONE OF WHOLE NATION </strong></i> </H2>
+<p style="text-align:center;"><button type="button" onclick="alert('courses')"> <b> <br> OUR COURSES </b> </br> </button> <button type="button" onclick="alert('steps for enrollment')"> <b><br>ENROLL NOW </b> </br> </button> </p>
+
+<H2 style= "text-align:center;"> <u><font color=" purple"> WELCOME to the world of knowledge! </u> </H2>
+<p style="text-align:center;font-size:24px;" ><font color="black"> This is the platform where different tutors are available to teach you the subjects which you choose according to your interest </p> <br> <br>
+<p>___________________________________________________________________________________________________________________________________________________________________________</p> <br>
+<p style="text-align:center; font-size:40px; "> <font color="purple"><u> <b> FIND THE BEST COURSES </b> </u> </p>
+<p style="font-size:20px; text-align :center"> <font color="black"><i> Find the courses of your interest by just one search here</i></p>
+
+<H1> <b><font color=" purple">course selection</b> </H1>
+
+<form>
+<font color="black">
+Course Name: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter course name" required> <br> <br>
+Course categories: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter course category" required> <br> <br>
+Course level: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter course level" required> <br> <br>
+Course instructor: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter course instructor" required> <br> <br>
+<input type="search course" value="search course">
+</form>
+<p style="text-align:center; font-size:40px;"> <u> <b><font color="purple">OUR FEATURED COURSES </b> </u> </p>
+<p style="font-size:20px; text-align:center"> <i><font color="black"> Find your preferred course from our wide range of courses online,start learning today from best teachers</i></p>
+
+<p style="text-align:left;"><img src="1.jpg" alt="image" width="425" class="center"> <style="text-align:center;"><img src="3.jpg" alt="image" width="425" class="center"> <style="text-align:right;"><img src="2.jpg" alt="image" width="425" class="center"> </p>
+
+<p style="font-size:20px;"> <b> <font color="purple">Introduction To OOP<b> </p>
+<font color="black">In this course you will learn basic object oriented programming.This course will build your foundation as a programmer.
+
+
+<p style="text-align:center;"><img src="Blog-Object-Oriented-Programming.jpg" width ="700"> </p>
+
+<p style="font-size:20px;"> <i> <font color="purple">ESSENTIALS FOR GRAPHIC DESIGNING </i></p>
+<font color=" black">In this course you will learn the essentials concepts of graphic designing.This course will help you improve your skills as a graphic designer.
+
+
+<p style="text-align:center;"><img src="66.jpg" width= "700"> </p>
+<p style="font-size:20px;"> <i><font color="purple"> PHOTOGRAPHY MASTERCLASS </i></p>
+<font color=" black">In this course you will able to learn about photography skills. This course will help to improve your photography skills.
+
+<p style="text-align:center;"><img src="cc.jpg" width = "700"> </p>
+<p style="font-size:20px;"> <i> <font color="purple">BUSINESS SKILSS </i></p>
+<font color=" black">In this course you will able to learn how to improve your skills in business field.
+
+<p style="text-align:center;"><img src="bb.jpg" width = "700"> </p>
+
+<p style="font-size:20px;"> <i><font color="purple"> WEB DESIGNING </i></p>
+<font color=" black">In this course you will able to learn how to improve your skills in web designing field.
+
+<p style="text-align:center;"><img src="ww.jpg" width = "700"> </p>
+
+<p style="font-size:20px;"> <i> <font color="purple">SOFTWARE DEVELOPMENT </i></p>
+<font color=" black">In this course you will able to learn how to develope software. This course will help you to improve your programming skilss.
+
+<p style="text-align:center;"><img src="sss.jpg" width = "700"> </p>
+
+<p style="text-align:center;"><button type="button" onclick="alert('ALL COURSES')"><br><b>ALL COURSES <b> <br>&nbsp </button><p/>
+
+
+<p style="text-align:center; font-size:40px;"> <u> <b> <font color="purple"> READY TO TAKE YOUR SKILLS TO THE NEXT LEVEL? </b> </u> </p>
+<font color=" black"><p style="font-size:20px; text-align: center"> <i> Start learning the skills in which you are interested,Start your free trial today!</i></p>
+<p style="text-align:left;"> <font color=" purple">FOR sign up, fill the followings: </p>
+<form>
+<font color="black">
+Name: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter your full name" required> <br> <br>
+Email Address: (required) <br>
+<input type="email" name="Email" size="50" placeholder="abc@example.com" required> <br> <br>
+Password: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter password" required> <br> <br>
+
+<input type="sign up" value="SIGN UP">
+</form>
+
+
+<p style="text-align:center; font-size:40px;"> <u> <b><font color="purple"> CHOOSE THE PLAN YOU NEED </b> </u> </p>
+<p style="font-size:20px; text-align:center"> <i> <font color="black">Pick the plan you need we have a wide range of pricing options to suit your needs,get started today</i></p>
+<form>
+<table border="1px" align= "center">
+<br>
+<th><b><h1><font color="purple">STARTER</h1> </b> <br>     <h2> RS 1000 per month   </h2> <br>
+<font color="black"><h3> Upto 10 lessons<br>Total of 100 hours<br>Unlimited Support<br>Free online access<p style="text-align:center;"></h3><button type="button" onclick="alert('START NOW')">START NOW </button></th>
+</table>
+</form>
+
+<form>
+<table border="1px" align= "center">
+<br>
+<th><b><h1><font color="purple"> GROWTH</h1> </b> <br>     <h2> RS 1500 per month   </h2> <br>
+<font color="black"><h3> Upto 10 lessons<br>Total of 100 hours<br>Unlimited Support<br>Free online access<p style="text-align:center;"></h3><button type="button" onclick="alert('START NOW')">START NOW </button></th>
+</table>
+</form>
+
+<form>
+<table border="1px" align= "center">
+<br>
+<th><b><h1><font color="purple">PREMIUM</h1> </b> <br>     <h2> RS 1800 per month   </h2> <br>
+<font color="black"><h3> Upto 10 lessons<br>Total of 100 hours<br>Unlimited Support<br>Free online access<p style="text-align:center;"></h3><button type="button" onclick="alert('START NOW')">START NOW </button></th>
+</table>
+</form>
+
+<form>
+<table border="1px" align= "center">
+<br>
+<th><b><h1><font color="purple">ENTERPRISE</h1> </b> <br>     <h2> RS 2000 per month   </h2> <br>
+<font color="black"><h3> Upto 10 lessons<br>Total of 100 hours<br>Unlimited Support<br>Free online access<p style="text-align:center;"></h3><button type="button" onclick="alert('START NOW')">START NOW </button></th>
+</table>
+</form>
+
+<p style="text-align:center; font-size:40px;"> <u> <b> <font color=" purple">LATEST NEWS </b> </u> </p>
+<p style="font-size:20px; text-align: center"> <i><font color="black"> Want to keep up with the latest news of scholars? Check out all the latest news of ours here</i></p>
+
+<p style="text-align:left;"><img src="1 (1).jpg" alt="image" width="425" class="center"> <style="text-align:center;"><img src="2 (1).jpg" alt="image" width="425" class="center"> <style="text-align:right;"><img src="3 (1).jpg" alt="image" width="425" class="center"> </p>
+
+<h2><p style="text-align: center;"><font color=" purple">How one of our students got jobs at international and national levels!</h2><br>
+<font color="black">Kate is a scholar from our platform and now working as a renowned photographrer in all over the world and brightening her job career with the skills she gets from learning Hub.
+<p style="text-align:center;"><button type="button" onclick="alert('READ MORE')"> <br>READ MORE <br> &nbsp </button>
+
+<p style="text-align:center;"><img src="ayesha.jpg" alt="background image" width="500" class="center"> </p>
+Riyad also a scholar from our platform and now working as a CEO in an American firm and brightening her job career with the skills she gets from learning Hub.
+<p style="text-align:center;"><button type="button" onclick="alert('READ MORE')"> <br>READ MORE <br> &nbsp </button>
+
+<p style="text-align:center;"><img src="ania .jpg" alt="background image" width="500" class="center"> </p>
+
+Emily also a scholar from our platform and now working as a Charter Accountant in a renowned pakistani firm and brightening her job career with the skills she gets from learning Hub.
+<p style="text-align:center;"><button type="button" onclick="alert('READ MORE')"> <br> READ MORE <br> &nbsp </button>
+<p style="text-align:center;"><img src="fatima.jpg" alt="background image" width="500" class="center"> </p>
+
+
+<p style="text-align:center; font-size:40px;"> <u> <b><font color=" purple"> BECOME AN INSTRUCTOR </b> </u> </p>
+
+<p style="text-align:center;"><img src="ins.jpg" alt="background image" width="500" class="center"> </p>
+<p style="font-size:20px; text-align:center"> <i><font color="black"> Be a part of the world class institution where we make leaders.Make a difference in the world by taking the responsibility.Be different</i></p>
+<p style="text-align:center;"><button type="button" onclick="alert('LEARN MORE')"> <br> LEARN MORE<br> &nbsp  </button>
+
+
+<p style="text-align:center; font-size:40px;"> <u> <b><font color=" purple"> CONTACT US </b> </u> </p>
+
+
+<p style="text-align:left; font-size:19px;"><font color="purple">Don't hesitate to contact us and give us a feedback on the below mentioned social media handles or through the form given below: </p>
+
+<font color="black"><p> Email Address: <a href = "mailto:  rabiakhalidkhalid72@gmail.com">rabiakhalidkhalid72@gmail.com</a></p>
+<font color="black"><p> Instagram Account: <a href = "https://www.instagram.com/zainaakhan2001/" > @learningcenterbyRabiaandZainab._ </a> </p>
+
+<H1> <b><font color="purple">FEEDBACK FORM</b> </H1>
+<form>
+<font color="black">
+Name: (required) <br>
+<input type="text" name="name" size="50" placeholder="Enter your full name" required> <br> <br>
+Email Address: (required) <br>
+<input type="email" name="Email" size="50" placeholder="abc@example.com" required> <br> <br>
+Feedback: (required) <br>
+<textarea rows="10" cols="50"> Your Feedback or complaints </textarea><br> <br>
+<input type="submit" value="SUBMIT FORM">
+</form>
+
+<p style="text-align:center; font-size:40px;"> <u> <b><font color="purple"> ABOUT US </b> </u> </p>
+
+<p style="text-align:center;"><img src="about us .jpg" alt="image" width="500" class="center"> </p>
+
+<p style="text-align:center; font-size:35px;"> <u> <b> <font color="purple">WHO WE ARE? </b> </u> </p>
+<p style="text-align:center;font-size:20px;" > <i><font color="black"> At Learning Hub we are doing our best to provide world class education at your doorstep<br> Learning Hub is an amazing global 
+maretplace for learning and teaching online where students can learn new skills and achieve their goals by learning from an extensive library of over 45000 courses taught 
+by world renowned</i></p>
+
+
+
+</body>
+</html>
